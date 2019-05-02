@@ -2,5 +2,5 @@
 This script allows you to check if a specific port is open, instead of checking for all ports.
 
 
-#Example
+# Example
 ![](images/example.png)
