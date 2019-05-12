@@ -23,5 +23,5 @@ for port in list:
     if(status == 0):
         print(f"[Port {port} - OPEN]")
     else:
-        print(f"[Port {port} IS CLOSED]")
+        print(f"[Port {port} - CLOSED]")
     s.close()
